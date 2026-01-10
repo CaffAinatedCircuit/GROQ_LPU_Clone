@@ -38,11 +38,17 @@ Jobless → Curious → Hands dirty → Groq-inspired learning modules
 ```
 You're next! 🚀 Try Colab, get "Groqified", share your version!
 ##🎓 MY LEARNING JOURNEY
+
 ├── Studied Groq LPU™ public concepts
+
 ├── Designed my own plesiochronous circuits
+
 ├── Created custom flit sync plesiochronous circuit (just like groq but a bit smaller- synthesizable in colab)
+
 ├── Omitted: MAC arrays, tensor scheduler, RISC-V, software
-├── 100% FOSS toolchain
+
+├── 100% FOSS toolchain for GDS Generation
+
 └── Modified for learning differences
 
 ## 📄 License
