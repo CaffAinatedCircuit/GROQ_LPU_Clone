@@ -15,6 +15,7 @@ Week 1: Vivado prototype → "This slaps!"
 Week 2: Sky130 OpenLane → "Wait, this actually synthesizes?!"
 
 You can try it too! Super easy in Google Colab 📓📓📓:
+
 [📓 Python level Methodology validation and comparison )](notebooks/vivado_sim.ipynb)
 
 [📓 Sky130 Synthesis HAC-SAC deskew]([notebooks/sky130_openlane.ipynb](https://colab.research.google.com/drive/1he1DAnfNCrrmkh2QbLv8vpw9_rFq94wZ#scrollTo=D3PFgCiuYwwf))  
@@ -32,8 +33,9 @@ text
 Detailed docs/sim/reports in respective readme files each folder - this ain't traditional circuits. Get ready to be GROQIFIED ⚡🧠⚡
 
 
-text
+```text
 Jobless → Curious → Hands dirty → Groq-inspired learning modules
+```
 You're next! 🚀 Try Colab, get "Groqified", share your version!
 ##🎓 MY LEARNING JOURNEY
 ├── Studied Groq LPU™ public concepts
