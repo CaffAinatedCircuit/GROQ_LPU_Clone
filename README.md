@@ -1,7 +1,7 @@
 # GROQ_LPU_Clone
 "🎓 Educational RTL to GDS: Plesiochronous circuits & flit sync inspired by Groq LPU concepts. Independent learning design."
 
-##🚀 How This Whole Thing Started (Real Talk)
+## 🚀 How This Whole Thing Started (Real Talk)
 
 Hey there! 👋 Let me be brutally honest - I'm jobless (not "job-less" as a joke, actually zero interviews right now 😅). Been spamming resumes everywhere, which accidentally turned into a masterclass in hardware companies.
 
@@ -37,7 +37,7 @@ Detailed docs/sim/reports in respective readme files each folder - this ain't tr
 Jobless → Curious → Hands dirty → Groq-inspired learning modules
 ```
 You're next! 🚀 Try Colab, get "Groqified", share your version!
-##🎓 MY LEARNING JOURNEY
+## 🎓 MY LEARNING JOURNEY
 
 ├── Studied Groq LPU™ public concepts
 
