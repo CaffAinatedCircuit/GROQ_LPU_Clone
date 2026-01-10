@@ -16,7 +16,9 @@ Week 2: Sky130 OpenLane → "Wait, this actually synthesizes?!"
 
 You can try it too! Super easy in Google Colab 📓📓📓:
 [📓 Python level Methodology validation and comparison )](notebooks/vivado_sim.ipynb)
+
 [📓 Sky130 Synthesis HAC-SAC deskew]([notebooks/sky130_openlane.ipynb](https://colab.research.google.com/drive/1he1DAnfNCrrmkh2QbLv8vpw9_rFq94wZ#scrollTo=D3PFgCiuYwwf))  
+
 [📓 Sky130 Synthesis Plesiochronous deskew](notebooks/verification.ipynb)
 
 🎪 Me Being Me (ADHD Edition)
