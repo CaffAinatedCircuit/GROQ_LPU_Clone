@@ -1,0 +1,46 @@
+───────────────────────────────────────────────── Fill Insertion ──────────────────────────────────────────────────
+
+[14:29:00] VERBOSE  Running 'OpenROAD.FillInsertion'…                                                  step.py:1088
+
+[14:29:00] VERBOSE  Logging subprocess to                                                              step.py:1268
+                    openlane_run/12-openroad-fillinsertion/openroad-fillinsertion.log…                             
+
+Reading OpenROAD database at '/content/openlane_run/11-openroad-detailedrouting/hac_deskew_dut.odb'…               
+
+Reading library file at '/root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib'…    
+
+Reading design constraints file at '/content/openlane_ipynb/openlane/scripts/base.sdc'…                            
+
+[INFO] Using clock clk…                                                                                            
+
+[INFO] Setting output delay to: 2                                                                                  
+
+[INFO] Setting input delay to: 2                                                                                   
+
+[INFO] Setting load to: 0.033442                                                                                   
+
+[INFO] Setting clock uncertainty to: 0.25                                                                          
+
+[INFO] Setting clock transition to: 0.1499999999999999944488848768742172978818416595458984375                      
+
+[INFO] Setting timing derate to: 5%                                                                                
+
+sky130_ef_sc_hd__decap_12 sky130_fd_sc_hd__decap_8 sky130_fd_sc_hd__decap_6 sky130_fd_sc_hd__decap_4               
+sky130_fd_sc_hd__decap_3 sky130_fd_sc_hd__fill*                                                                    
+
+[INFO DPL-0001] Placed 20788 filler instances.                                                                     
+
+Setting global connections for newly added cells…                                                                  
+
+[INFO] Setting global connections...                                                                               
+
+Writing OpenROAD database to '/content/openlane_run/12-openroad-fillinsertion/hac_deskew_dut.odb'…                 
+
+Writing netlist to '/content/openlane_run/12-openroad-fillinsertion/hac_deskew_dut.nl.v'…                          
+
+Writing powered netlist to '/content/openlane_run/12-openroad-fillinsertion/hac_deskew_dut.pnl.v'…                 
+
+Writing layout to '/content/openlane_run/12-openroad-fillinsertion/hac_deskew_dut.def'…                            
+
+Writing timing constraints to '/content/openlane_run/12-openroad-fillinsertion/hac_deskew_dut.sdc'…                
+

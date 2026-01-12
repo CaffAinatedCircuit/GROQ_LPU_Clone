@@ -1,0 +1,149 @@
+───────────────────────────────────────────────── Global Routing ──────────────────────────────────────────────────
+
+[14:27:27] VERBOSE  Running 'OpenROAD.GlobalRouting'…                                                  step.py:1088
+
+[14:27:27] VERBOSE  Logging subprocess to                                                              step.py:1268
+                    openlane_run/10-openroad-globalrouting/openroad-globalrouting.log…                             
+
+Reading OpenROAD database at '/content/openlane_run/9-openroad-cts/hac_deskew_dut.odb'…                            
+
+Reading library file at '/root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib'…    
+
+Reading design constraints file at '/content/openlane_ipynb/openlane/scripts/base.sdc'…                            
+
+[INFO] Using clock clk…                                                                                            
+
+[INFO] Setting output delay to: 2                                                                                  
+
+[INFO] Setting input delay to: 2                                                                                   
+
+[INFO] Setting load to: 0.033442                                                                                   
+
+[INFO] Setting clock uncertainty to: 0.25                                                                          
+
+[INFO] Setting clock transition to: 0.1499999999999999944488848768742172978818416595458984375                      
+
+[INFO] Setting timing derate to: 5%                                                                                
+
+[INFO] Setting signal min routing layer to: met1 and clock min routing layer to met1.                              
+
+[INFO] Setting signal max routing layer to: met5 and clock max routing layer to met5.                              
+
+-congestion_iterations 50 -verbose                                                                                 
+
+[INFO GRT-0020] Min routing layer: met1                                                                            
+
+[INFO GRT-0021] Max routing layer: met5                                                                            
+
+[INFO GRT-0022] Global adjustment: 30%                                                                             
+
+[INFO GRT-0023] Grid origin: (0, 0)                                                                                
+
+[INFO GRT-0043] No OR_DEFAULT vias defined.                                                                        
+
+[INFO GRT-0088] Layer li1     Track-Pitch = 0.4600  line-2-Via Pitch: 0.3400                                       
+
+[INFO GRT-0088] Layer met1    Track-Pitch = 0.3400  line-2-Via Pitch: 0.3400                                       
+
+[INFO GRT-0088] Layer met2    Track-Pitch = 0.4600  line-2-Via Pitch: 0.3500                                       
+
+[INFO GRT-0088] Layer met3    Track-Pitch = 0.6800  line-2-Via Pitch: 0.6150                                       
+
+[INFO GRT-0088] Layer met4    Track-Pitch = 0.9200  line-2-Via Pitch: 1.0400                                       
+
+[INFO GRT-0088] Layer met5    Track-Pitch = 3.4000  line-2-Via Pitch: 3.1100                                       
+
+[INFO GRT-0019] Found 10 clock nets.                                                                               
+
+[INFO GRT-0001] Minimum degree: 2                                                                                  
+
+[INFO GRT-0002] Maximum degree: 102                                                                                
+
+[INFO GRT-0003] Macros: 0                                                                                          
+
+[INFO GRT-0043] No OR_DEFAULT vias defined.                                                                        
+
+[INFO GRT-0004] Blockages: 1995                                                                                    
+
+                                                                                                                   
+
+[INFO GRT-0053] Routing resources analysis:                                                                        
+
+Routing      Original      Derated      Resource                                                                   
+
+Layer     Direction    Resources     Resources    Reduction (%)                                                    
+
+---------------------------------------------------------------                                                    
+
+li1        Vertical            0             0          0.00%                                                      
+
+met1       Horizontal     149554         81676          45.39%                                                     
+
+met2       Vertical       112144         73040          34.87%                                                     
+
+met3       Horizontal      74734         50812          32.01%                                                     
+
+met4       Vertical        45064         24625          45.36%                                                     
+
+met5       Horizontal      14878          6531          56.10%                                                     
+
+---------------------------------------------------------------                                                    
+
+                                                                                                                   
+
+[INFO GRT-0197] Via related to pin nodes: 4557                                                                     
+
+[INFO GRT-0198] Via related Steiner nodes: 102                                                                     
+
+[INFO GRT-0199] Via filling finished.                                                                              
+
+[INFO GRT-0111] Final number of vias: 5807                                                                         
+
+[INFO GRT-0112] Final usage 3D: 25668                                                                              
+
+                                                                                                                   
+
+[INFO GRT-0096] Final congestion report:                                                                           
+
+Layer         Resource        Demand        Usage (%)    Max H / Max V / Total Overflow                            
+
+---------------------------------------------------------------------------------------                            
+
+li1                  0             0            0.00%             0 /  0 /  0                                      
+
+met1             81676          3639            4.46%             0 /  0 /  0                                      
+
+met2             73040          4607            6.31%             0 /  0 /  0                                      
+
+met3             50812             1            0.00%             0 /  0 /  0                                      
+
+met4             24625             0            0.00%             0 /  0 /  0                                      
+
+met5              6531             0            0.00%             0 /  0 /  0                                      
+
+---------------------------------------------------------------------------------------                            
+
+Total           236684          8247            3.48%             0 /  0 /  0                                      
+
+                                                                                                                   
+
+[INFO GRT-0018] Total wirelength: 76189 um                                                                         
+
+[INFO GRT-0014] Routed nets: 910                                                                                   
+
+[INFO] Setting RC values…                                                                                          
+
+Setting global connections for newly added cells…                                                                  
+
+[INFO] Setting global connections...                                                                               
+
+Writing OpenROAD database to '/content/openlane_run/10-openroad-globalrouting/hac_deskew_dut.odb'…                 
+
+Writing layout to '/content/openlane_run/10-openroad-globalrouting/hac_deskew_dut.def'…                            
+
+Format 	Path
+nl 	openlane_run/9-openroad-cts/hac_deskew_dut.nl.v
+pnl 	openlane_run/9-openroad-cts/hac_deskew_dut.pnl.v
+def 	openlane_run/10-openroad-globalrouting/hac_deskew_dut.def
+odb 	openlane_run/10-openroad-globalrouting/hac_deskew_dut.odb
+sdc 	openlane_run/9-openroad-cts/hac_deskew_dut.sdc
