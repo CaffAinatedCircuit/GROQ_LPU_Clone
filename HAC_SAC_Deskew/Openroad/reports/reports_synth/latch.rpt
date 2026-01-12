@@ -1,0 +1,4 @@
+
+14. Executing PROC_DLATCH pass (convert process syncs to latches).
+No latch inferred for signal `\hac_deskew_dut.\link_tx_v_reg' from process `\hac_deskew_dut.$proc$./hac_deskew_dut.v:102$10'.
+No latch inferred for signal `\hac_deskew_dut.\link_tx_reg' from process `\hac_deskew_dut.$proc$./hac_deskew_dut.v:102$10'.

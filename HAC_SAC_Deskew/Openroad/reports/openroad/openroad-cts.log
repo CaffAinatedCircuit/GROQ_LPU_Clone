@@ -1,0 +1,1899 @@
+Reading timing models for corner nom_tt_025C_1v80…
+Reading timing library for the 'nom_tt_025C_1v80' corner at '/root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib'…
+Reading timing models for corner nom_ff_n40C_1v95…
+Reading timing library for the 'nom_ff_n40C_1v95' corner at '/root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib'…
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 619, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 625, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 633, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 639, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 647, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 654, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 661, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 668, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 675, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 682, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 689, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 698, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 705, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 712, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 719, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 726, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 733, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 740, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 789, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 795, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 801, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 807, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 815, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 821, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 827, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 833, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 841, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 848, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 855, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 862, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 869, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 876, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 883, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 892, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 899, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 906, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 913, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 920, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 927, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 934, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1032, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1038, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1046, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1052, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1060, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1067, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1074, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1081, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1088, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1095, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1102, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1111, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1118, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1125, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1132, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1139, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1146, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1153, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1202, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1208, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1214, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1220, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1228, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1234, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1240, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1246, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1254, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1261, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1268, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1275, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1282, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1289, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1296, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1305, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1312, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1319, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1326, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1333, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1340, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1347, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1445, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1451, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1459, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1465, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1473, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1480, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1487, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1494, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1501, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1508, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1515, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1524, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1531, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1538, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1545, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1552, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1559, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1566, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1615, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1621, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1627, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1633, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1641, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1647, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1653, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1659, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1667, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1674, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1681, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1688, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1695, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1702, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1709, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1718, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1725, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1732, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1739, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1746, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1753, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1760, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1858, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1864, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1872, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1878, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1886, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1893, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1900, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1907, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1914, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1921, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1928, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1937, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1944, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1951, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1958, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1965, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1972, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 1979, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2028, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2034, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2040, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2046, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2054, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2060, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2066, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2072, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2080, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2087, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2094, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2101, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2108, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2115, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2122, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2131, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2138, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2145, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2152, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2159, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2166, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2173, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2271, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2277, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2285, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2291, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2299, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2306, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2313, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2320, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2327, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2334, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2341, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2350, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2357, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2364, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2371, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2378, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2385, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2392, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2441, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2447, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2453, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2459, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2467, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2473, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2479, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2485, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2493, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2500, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2507, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2514, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2521, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2528, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2535, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2544, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2551, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2558, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2565, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2572, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2579, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 2586, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3080, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3086, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3094, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3100, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3108, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3115, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3122, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3129, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3136, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3143, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3150, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3159, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3166, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3173, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3180, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3187, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3194, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3201, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3250, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3256, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3262, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3268, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3276, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3282, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3288, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3294, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3302, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3309, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3316, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3323, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3330, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3337, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3344, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3353, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3360, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3367, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3374, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3381, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3388, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3395, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3493, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3499, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3507, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3513, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3521, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3528, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3535, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3542, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3549, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3556, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3563, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3572, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3579, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3586, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3593, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3600, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3607, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3614, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3663, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3669, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3675, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3681, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3689, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3695, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3701, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3707, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3715, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3722, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3729, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3736, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3743, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3750, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3757, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3766, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3773, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3780, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3787, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3794, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3801, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3808, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3906, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3912, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3920, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3926, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3934, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3941, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3948, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3955, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3962, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3969, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3976, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3985, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3992, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 3999, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4006, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4013, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4020, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4027, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4076, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4082, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4088, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4094, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4102, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4108, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4114, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4120, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4128, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4135, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4142, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4149, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4156, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4163, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4170, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4179, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4186, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4193, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4200, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4207, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4214, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4221, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4319, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4325, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4333, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4339, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4347, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4354, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4361, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4368, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4375, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4382, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4389, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4398, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4405, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4412, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4419, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4426, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4433, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4440, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4489, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4495, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4501, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4507, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4515, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4521, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4527, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4533, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4541, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4548, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4555, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4562, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4569, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4576, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4583, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4592, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4599, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4606, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4613, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4620, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4627, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4634, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4732, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4738, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4746, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4752, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4760, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4767, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4774, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4781, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4788, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4795, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4802, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4811, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4818, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4825, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4832, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4839, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4846, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4853, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4902, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4908, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4914, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4920, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4928, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4934, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4940, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4946, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4954, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4961, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4968, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4975, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4982, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4989, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 4996, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5005, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5012, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5019, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5026, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5033, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5040, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5047, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5541, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5547, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5555, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5561, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5569, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5576, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5583, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5590, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5597, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5604, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5611, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5620, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5627, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5634, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5641, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5648, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5655, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5662, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5711, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5717, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5723, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5729, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5737, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5743, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5749, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5755, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5763, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5770, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5777, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5784, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5791, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5798, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5805, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5814, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5821, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5828, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5835, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5842, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5849, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5856, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5954, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5960, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5968, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5974, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5982, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5989, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 5996, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6003, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6010, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6017, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6024, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6033, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6040, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6047, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6054, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6061, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6068, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6075, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6124, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6130, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6136, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6142, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6150, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6156, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6162, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6168, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6176, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6183, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6190, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6197, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6204, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6211, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6218, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6227, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6234, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6241, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6248, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6255, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6262, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6269, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6367, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6373, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6381, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6387, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6395, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6402, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6409, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6416, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6423, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6430, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6437, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6446, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6453, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6460, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6467, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6474, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6481, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6488, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6537, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6543, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6549, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6555, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6563, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6569, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6575, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6581, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6589, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6596, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6603, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6610, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6617, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6624, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6631, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6640, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6647, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6654, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6661, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6668, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6675, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6682, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6780, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6786, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6794, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6800, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6808, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6815, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6822, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6829, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6836, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6843, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6850, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6859, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6866, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6873, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6880, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6887, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6894, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6901, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6950, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6956, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6962, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6968, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6976, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6982, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6988, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 6994, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7002, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7009, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7016, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7023, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7030, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7037, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7044, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7053, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7060, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7067, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7074, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7081, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7088, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7095, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7193, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7199, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7207, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7213, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7221, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7228, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7235, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7242, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7249, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7256, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7263, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7272, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7279, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7286, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7293, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7300, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7307, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7314, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7363, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7369, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7375, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7381, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7389, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7395, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7401, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7407, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7415, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7422, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7429, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7436, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7443, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7450, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7457, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7466, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7473, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7480, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7487, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7494, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7501, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 7508, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8002, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8008, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8014, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8020, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8028, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8034, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8040, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8046, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8054, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8061, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8068, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8075, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8082, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8089, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8096, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8105, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8112, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8119, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8126, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8133, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8140, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8147, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8245, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8251, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8257, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8263, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8271, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8277, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8283, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8289, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8297, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8304, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8311, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8318, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8325, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8332, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8339, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8348, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8355, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8362, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8369, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8376, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8383, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8390, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8488, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8494, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8500, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8506, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8514, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8520, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8526, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8532, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8540, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8547, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8554, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8561, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8568, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8575, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8582, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8591, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8598, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8605, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8612, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8619, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8626, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8633, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8731, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8737, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8743, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8749, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8757, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8763, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8769, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8775, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8783, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8790, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8797, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8804, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8811, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8818, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8825, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8834, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8841, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8848, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8855, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8862, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8869, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8876, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8974, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8980, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8986, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 8992, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9000, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9006, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9012, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9018, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9026, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9033, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9040, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9047, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9054, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9061, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9068, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9077, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9084, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9091, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9098, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9105, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9112, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9119, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9613, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9619, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9625, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9631, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9639, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9645, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9651, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9657, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9665, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9672, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9679, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9686, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9693, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9700, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9707, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9716, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9723, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9730, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9737, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9744, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9751, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9758, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9856, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9862, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9868, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9874, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9882, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9888, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9894, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9900, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9908, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9915, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9922, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9929, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9936, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9943, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9950, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9959, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9966, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9973, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9980, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9987, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 9994, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10001, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10099, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10105, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10111, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10117, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10125, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10131, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10137, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10143, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10151, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10158, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10165, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10172, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10179, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10186, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10193, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10202, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10209, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10216, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10223, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10230, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10237, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10244, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10342, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10348, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10354, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10360, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10368, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10374, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10380, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10386, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10394, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10401, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10408, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10415, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10422, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10429, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10436, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10445, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10452, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10459, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10466, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10473, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10480, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10487, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10585, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10591, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10597, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10603, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10611, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10617, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10623, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10629, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10637, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10644, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10651, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10658, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10665, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10672, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10679, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10688, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10695, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10702, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10709, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10716, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10723, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 10730, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11224, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11230, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11236, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11242, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11250, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11256, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11262, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11268, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11276, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11283, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11290, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11297, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11304, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11311, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11318, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11327, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11334, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11341, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11348, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11355, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11362, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11369, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11467, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11473, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11479, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11485, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11493, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11499, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11505, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11511, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11519, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11526, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11533, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11540, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11547, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11554, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11561, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11570, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11577, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11584, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11591, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11598, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11605, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11612, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11710, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11716, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11722, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11728, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11736, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11742, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11748, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11754, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11762, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11769, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11776, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11783, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11790, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11797, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11804, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11813, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11820, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11827, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11834, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11841, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11848, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11855, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11953, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11959, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11965, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11971, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11979, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11985, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11991, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 11997, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12005, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12012, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12019, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12026, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12033, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12040, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12047, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12056, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12063, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12070, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12077, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12084, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12091, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12098, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12196, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12202, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12208, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12214, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12222, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12228, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12234, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12240, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12248, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12255, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12262, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12269, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12276, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12283, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12290, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12299, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12306, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12313, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12320, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12327, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12334, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12341, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12835, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12841, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12847, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12853, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12861, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12867, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12873, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12879, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12887, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12894, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12901, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12908, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12915, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12922, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12929, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12938, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12945, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12952, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12959, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12966, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12973, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 12980, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13078, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13084, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13090, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13096, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13104, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13110, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13116, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13122, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13130, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13137, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13144, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13151, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13158, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13165, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13172, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13181, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13188, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13195, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13202, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13209, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13216, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13223, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13321, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13327, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13333, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13339, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13347, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13353, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13359, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13365, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13373, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13380, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13387, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13394, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13401, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13408, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13415, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13424, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13431, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13438, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13445, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13452, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13459, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13466, table template ccsn_pnlh not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13564, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13570, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13576, table template ccsn_ovrf not found.
+[WARNING STA-1256] /root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v95.lib line 13582, table template ccsn_ovrf not found.
+[WARNING STA-1256] message limit reached, this message will no longer print
+Reading timing models for corner nom_ss_100C_1v60…
+Reading timing library for the 'nom_ss_100C_1v60' corner at '/root/.volare/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ss_100C_1v60.lib'…
+Reading OpenROAD database at '/content/openlane_run/3-openroad-tapendcapinsertion/hac_deskew_dut.odb'…
+Reading design constraints file at '/content/openlane_ipynb/openlane/scripts/base.sdc'…
+[INFO] Using clock clk…
+[INFO] Setting output delay to: 2
+[INFO] Setting input delay to: 2
+[INFO] Setting load to: 0.033442
+[INFO] Setting clock uncertainty to: 0.25
+[INFO] Setting clock transition to: 0.1499999999999999944488848768742172978818416595458984375
+[INFO] Setting timing derate to: 5%
+[INFO] Setting RC values…
+[INFO] Configuring cts characterization…
+[INFO] Performing clock tree synthesis…
+[INFO] Looking for the following net(s): clk
+[INFO] Running Clock Tree Synthesis…
+[INFO CTS-0050] Root buffer is sky130_fd_sc_hd__clkbuf_16.
+[INFO CTS-0051] Sink buffer is sky130_fd_sc_hd__clkbuf_8.
+[INFO CTS-0052] The following clock buffers will be used for CTS:
+                    sky130_fd_sc_hd__clkbuf_2
+                    sky130_fd_sc_hd__clkbuf_4
+                    sky130_fd_sc_hd__clkbuf_8
+[INFO CTS-0049] Characterization buffer is sky130_fd_sc_hd__clkbuf_8.
+[INFO CTS-0007] Net "clk" found for clock "clk".
+[WARNING CTS-0041] Net "clk" has 0 sinks. Skipping...
+[WARNING CTS-0083] No clock nets have been found.
+[INFO CTS-0008] TritonCTS found 0 clock nets.
+[WARNING CTS-0082] No valid clock nets in the design.
+[INFO] Repairing long wires on clock nets…
+[INFO RSZ-0058] Using max wire length 6335um.
+Setting global connections for newly added cells…
+[INFO] Setting global connections...
+Writing OpenROAD database to '/content/openlane_run/5-openroad-cts/hac_deskew_dut.odb'…
+Writing netlist to '/content/openlane_run/5-openroad-cts/hac_deskew_dut.nl.v'…
+Writing powered netlist to '/content/openlane_run/5-openroad-cts/hac_deskew_dut.pnl.v'…
+Writing layout to '/content/openlane_run/5-openroad-cts/hac_deskew_dut.def'…
+Writing timing constraints to '/content/openlane_run/5-openroad-cts/hac_deskew_dut.sdc'…
+[INFO] Legalizing…
+Placement Analysis
+---------------------------------
+total displacement     177202.0 u
+average displacement       37.5 u
+max displacement          280.8 u
+original HPWL            2207.8 u
+legalized HPWL          76690.6 u
+delta HPWL                 3374 %
+
+[INFO DPL-0020] Mirrored 411 instances
+[INFO DPL-0021] HPWL before           76690.6 u
+[INFO DPL-0022] HPWL after            75876.8 u
+[INFO DPL-0023] HPWL delta               -1.1 %
+[WARNING DPL-0003] Placed check failed (840).
+ _0637_
+ _0638_
+ _0639_
+ _0640_
+ _0641_
+ _0642_
+ _0643_
+ _0644_
+ _0645_
+ _0646_
+ _0647_
+ _0648_
+ _0649_
+ _0650_
+ _0651_
+ _0652_
+ _0653_
+ _0654_
+ _0655_
+ _0656_
+ _0657_
+ _0658_
+ _0659_
+ _0660_
+ _0661_
+ _0662_
+ _0663_
+ _0664_
+ _0665_
+ _0666_
+ _0667_
+ _0668_
+ _0669_
+ _0670_
+ _0671_
+ _0672_
+ _0673_
+ _0674_
+ _0675_
+ _0676_
+ _0677_
+ _0678_
+ _0679_
+ _0680_
+ _0681_
+ _0682_
+ _0683_
+ _0684_
+ _0685_
+ _0686_
+ _0687_
+ _0688_
+ _0689_
+ _0690_
+ _0691_
+ _0692_
+ _0693_
+ _0694_
+ _0695_
+ _0696_
+ _0697_
+ _0698_
+ _0699_
+ _0700_
+ _0701_
+ _0702_
+ _0703_
+ _0704_
+ _0705_
+ _0706_
+ _0707_
+ _0708_
+ _0709_
+ _0710_
+ _0711_
+ _0712_
+ _0713_
+ _0714_
+ _0715_
+ _0716_
+ _0717_
+ _0718_
+ _0719_
+ _0720_
+ _0721_
+ _0722_
+ _0723_
+ _0724_
+ _0725_
+ _0726_
+ _0727_
+ _0728_
+ _0729_
+ _0730_
+ _0731_
+ _0732_
+ _0733_
+ _0734_
+ _0735_
+ _0736_
+ _0737_
+ _0738_
+ _0739_
+ _0740_
+ _0741_
+ _0742_
+ _0743_
+ _0744_
+ _0745_
+ _0746_
+ _0747_
+ _0748_
+ _0749_
+ _0750_
+ _0751_
+ _0752_
+ _0753_
+ _0754_
+ _0755_
+ _0756_
+ _0757_
+ _0758_
+ _0759_
+ _0760_
+ _0761_
+ _0762_
+ _0763_
+ _0764_
+ _0765_
+ _0766_
+ _0767_
+ _0768_
+ _0769_
+ _0770_
+ _0771_
+ _0772_
+ _0773_
+ _0774_
+ _0775_
+ _0776_
+ _0777_
+ _0778_
+ _0779_
+ _0780_
+ _0781_
+ _0782_
+ _0783_
+ _0784_
+ _0785_
+ _0786_
+ _0787_
+ _0788_
+ _0789_
+ _0790_
+ _0791_
+ _0792_
+ _0793_
+ _0794_
+ _0795_
+ _0796_
+ _0797_
+ _0798_
+ _0799_
+ _0800_
+ _0801_
+ _0802_
+ _0803_
+ _0804_
+ _0805_
+ _0806_
+ _0807_
+ _0808_
+ _0809_
+ _0810_
+ _0811_
+ _0812_
+ _0813_
+ _0814_
+ _0815_
+ _0816_
+ _0817_
+ _0818_
+ _0819_
+ _0820_
+ _0821_
+ _0822_
+ _0823_
+ _0824_
+ _0825_
+ _0826_
+ _0827_
+ _0828_
+ _0829_
+ _0830_
+ _0831_
+ _0832_
+ _0833_
+ _0834_
+ _0835_
+ _0836_
+ _0837_
+ _0838_
+ _0839_
+ _0840_
+ _0841_
+ _0842_
+ _0843_
+ _0844_
+ _0845_
+ _0846_
+ _0847_
+ _0848_
+ _0849_
+ _0850_
+ _0851_
+ _0852_
+ _0853_
+ _0854_
+ _0855_
+ _0856_
+ _0857_
+ _0858_
+ _0859_
+ _0860_
+ _0861_
+ _0862_
+ _0863_
+ _0864_
+ _0865_
+ _0866_
+ _0867_
+ _0868_
+ _0869_
+ _0870_
+ _0871_
+ _0872_
+ _0873_
+ _0874_
+ _0875_
+ _0876_
+ _0877_
+ _0878_
+ _0879_
+ _0880_
+ _0881_
+ _0882_
+ _0883_
+ _0884_
+ _0885_
+ _0886_
+ _0887_
+ _0888_
+ _0889_
+ _0890_
+ _0891_
+ _0892_
+ _0893_
+ _0894_
+ _0895_
+ _0896_
+ _0897_
+ _0898_
+ _0899_
+ _0900_
+ _0901_
+ _0902_
+ _0903_
+ _0904_
+ _0905_
+ _0906_
+ _0907_
+ _0908_
+ _0909_
+ _0910_
+ _0911_
+ _0912_
+ _0913_
+ _0914_
+ _0915_
+ _0916_
+ _0917_
+ _0918_
+ _0919_
+ _0920_
+ _0921_
+ _0922_
+ _0923_
+ _0924_
+ _0925_
+ _0926_
+ _0927_
+ _0928_
+ _0929_
+ _0930_
+ _0931_
+ _0932_
+ _0933_
+ _0934_
+ _0935_
+ _0936_
+ _0937_
+ _0938_
+ _0939_
+ _0940_
+ _0941_
+ _0942_
+ _0943_
+ _0944_
+ _0945_
+ _0946_
+ _0947_
+ _0948_
+ _0949_
+ _0950_
+ _0951_
+ _0952_
+ _0953_
+ _0954_
+ _0955_
+ _0956_
+ _0957_
+ _0958_
+ _0959_
+ _0960_
+ _0961_
+ _0962_
+ _0963_
+ _0964_
+ _0965_
+ _0966_
+ _0967_
+ _0968_
+ _0969_
+ _0970_
+ _0971_
+ _0972_
+ _0973_
+ _0974_
+ _0975_
+ _0976_
+ _0977_
+ _0978_
+ _0979_
+ _0980_
+ _0981_
+ _0982_
+ _0983_
+ _0984_
+ _0985_
+ _0986_
+ _0987_
+ _0988_
+ _0989_
+ _0990_
+ _0991_
+ _0992_
+ _0993_
+ _0994_
+ _0995_
+ _0996_
+ _0997_
+ _0998_
+ _0999_
+ _1000_
+ _1001_
+ _1002_
+ _1003_
+ _1004_
+ _1005_
+ _1006_
+ _1007_
+ _1008_
+ _1009_
+ _1010_
+ _1011_
+ _1012_
+ _1013_
+ _1014_
+ _1015_
+ _1016_
+ _1017_
+ _1018_
+ _1019_
+ _1020_
+ _1021_
+ _1022_
+ _1023_
+ _1024_
+ _1025_
+ _1026_
+ _1027_
+ _1028_
+ _1029_
+ _1030_
+ _1031_
+ _1032_
+ _1033_
+ _1034_
+ _1035_
+ _1036_
+ _1037_
+ _1038_
+ _1039_
+ _1040_
+ _1041_
+ _1042_
+ _1043_
+ _1044_
+ _1045_
+ _1046_
+ _1047_
+ _1048_
+ _1049_
+ _1050_
+ _1051_
+ _1052_
+ _1053_
+ _1054_
+ _1055_
+ _1056_
+ _1057_
+ _1058_
+ _1059_
+ _1060_
+ _1061_
+ _1062_
+ _1063_
+ _1064_
+ _1065_
+ _1066_
+ _1067_
+ _1068_
+ _1069_
+ _1070_
+ _1071_
+ _1072_
+ _1073_
+ _1074_
+ _1075_
+ _1076_
+ _1077_
+ _1078_
+ _1079_
+ _1080_
+ _1081_
+ _1082_
+ _1083_
+ _1084_
+ _1085_
+ _1086_
+ _1087_
+ _1088_
+ _1089_
+ _1090_
+ _1091_
+ _1092_
+ _1093_
+ _1094_
+ _1095_
+ _1096_
+ _1097_
+ _1098_
+ _1099_
+ _1100_
+ _1101_
+ _1102_
+ _1103_
+ _1104_
+ _1105_
+ _1106_
+ _1107_
+ _1108_
+ _1109_
+ _1110_
+ _1111_
+ _1112_
+ _1113_
+ _1114_
+ _1115_
+ _1116_
+ _1117_
+ _1118_
+ _1119_
+ _1120_
+ _1121_
+ _1122_
+ _1123_
+ _1124_
+ _1125_
+ _1126_
+ _1127_
+ _1128_
+ _1129_
+ _1130_
+ _1131_
+ _1132_
+ _1133_
+ _1134_
+ _1135_
+ _1136_
+ _1137_
+ _1138_
+ _1139_
+ _1140_
+ _1141_
+ _1142_
+ _1143_
+ _1144_
+ _1145_
+ _1146_
+ _1147_
+ _1148_
+ _1149_
+ _1150_
+ _1151_
+ _1152_
+ _1153_
+ _1154_
+ _1155_
+ _1156_
+ _1157_
+ _1158_
+ _1159_
+ _1160_
+ _1161_
+ _1162_
+ _1163_
+ _1164_
+ _1165_
+ _1166_
+ _1167_
+ _1168_
+ _1169_
+ _1170_
+ _1171_
+ _1172_
+ _1173_
+ _1174_
+ _1175_
+ _1176_
+ _1177_
+ _1178_
+ _1179_
+ _1180_
+ _1181_
+ _1182_
+ _1183_
+ _1184_
+ _1185_
+ _1186_
+ _1187_
+ _1188_
+ _1189_
+ _1190_
+ _1191_
+ _1192_
+ _1193_
+ _1194_
+ _1195_
+ _1196_
+ _1197_
+ _1198_
+ _1199_
+ _1200_
+ _1201_
+ _1202_
+ _1203_
+ _1204_
+ _1205_
+ _1206_
+ _1207_
+ _1208_
+ _1209_
+ _1210_
+ _1211_
+ _1212_
+ _1213_
+ _1214_
+ _1215_
+ _1216_
+ _1217_
+ _1218_
+ _1219_
+ _1220_
+ _1221_
+ _1222_
+ _1223_
+ _1224_
+ _1225_
+ _1226_
+ _1227_
+ _1228_
+ _1229_
+ _1230_
+ _1231_
+ _1232_
+ _1233_
+ _1234_
+ _1235_
+ _1236_
+ _1237_
+ _1238_
+ _1239_
+ _1240_
+ _1241_
+ _1242_
+ _1243_
+ _1244_
+ _1245_
+ _1246_
+ _1247_
+ _1248_
+ _1249_
+ _1250_
+ _1251_
+ _1252_
+ _1253_
+ _1254_
+ _1255_
+ _1256_
+ _1257_
+ _1258_
+ _1259_
+ _1260_
+ _1261_
+ _1262_
+ _1263_
+ _1264_
+ _1265_
+ _1266_
+ _1267_
+ _1268_
+ _1269_
+ _1270_
+ _1271_
+ _1272_
+ _1273_
+ _1274_
+ _1275_
+ _1276_
+ _1277_
+ _1278_
+ _1279_
+ _1280_
+ _1281_
+ _1282_
+ _1283_
+ _1284_
+ _1285_
+ _1286_
+ _1287_
+ _1288_
+ _1289_
+ _1290_
+ _1291_
+ _1292_
+ _1293_
+ _1294_
+ _1295_
+ _1296_
+ _1297_
+ _1298_
+ _1299_
+ _1300_
+ _1301_
+ _1302_
+ _1303_
+ _1304_
+ _1305_
+ _1306_
+ _1307_
+ _1308_
+ _1309_
+ _1310_
+ _1311_
+ _1312_
+ _1313_
+ _1314_
+ _1315_
+ _1316_
+ _1317_
+ _1318_
+ _1319_
+ _1320_
+ _1321_
+ _1322_
+ _1323_
+ _1324_
+ _1325_
+ _1326_
+ _1327_
+ _1328_
+ _1329_
+ _1330_
+ _1331_
+ _1332_
+ _1333_
+ _1334_
+ _1335_
+ _1336_
+ _1337_
+ _1338_
+ _1339_
+ _1340_
+ _1341_
+ _1342_
+ _1343_
+ _1344_
+ _1345_
+ _1346_
+ _1347_
+ _1348_
+ _1349_
+ _1350_
+ _1351_
+ _1352_
+ _1353_
+ _1354_
+ _1355_
+ _1356_
+ _1357_
+ _1358_
+ _1359_
+ _1360_
+ _1361_
+ _1362_
+ _1363_
+ _1364_
+ _1365_
+ _1366_
+ _1367_
+ _1368_
+ _1369_
+ _1370_
+ _1371_
+ _1372_
+ _1373_
+ _1374_
+ _1375_
+ _1376_
+ _1377_
+ _1378_
+ _1379_
+ _1380_
+ _1381_
+ _1382_
+ _1383_
+ _1384_
+ _1385_
+ _1386_
+ _1387_
+ _1388_
+ _1389_
+ _1390_
+ _1391_
+ _1392_
+ _1393_
+ _1394_
+ _1395_
+ _1396_
+ _1397_
+ _1398_
+ _1399_
+ _1400_
+ _1401_
+ _1402_
+ _1403_
+ _1404_
+ _1405_
+ _1406_
+ _1407_
+ _1408_
+ _1409_
+ _1410_
+ _1411_
+ _1412_
+ _1413_
+ _1414_
+ _1415_
+ _1416_
+ _1417_
+ _1418_
+ _1419_
+ _1420_
+ _1421_
+ _1422_
+ _1423_
+ _1424_
+ _1425_
+ _1426_
+ _1427_
+ _1428_
+ _1429_
+ _1430_
+ _1431_
+ _1432_
+ _1433_
+ _1434_
+ _1435_
+ _1436_
+ _1437_
+ _1438_
+ _1439_
+ _1440_
+ _1441_
+ _1442_
+ _1443_
+ _1444_
+ _1445_
+ _1446_
+ _1447_
+ _1448_
+ _1449_
+ _1450_
+ _1451_
+ _1452_
+ _1453_
+ _1454_
+ _1455_
+ _1456_
+ _1457_
+ _1458_
+ _1459_
+ _1460_
+ _1461_
+ _1462_
+ _1463_
+ _1464_
+ _1465_
+ _1466_
+ _1467_
+ _1468_
+ _1469_
+ _1470_
+ _1471_
+ _1472_
+ _1473_
+ _1474_
+ _1475_
+ _1476_
+[ERROR DPL-0033] detailed placement checks failed.
+Error: dpl.tcl, 24 DPL-0033
